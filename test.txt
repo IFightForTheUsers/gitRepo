@@ -1,4 +1,7 @@
 this is a test
 it is only a test
+<<<<<<< HEAD
 
 GitKraken is the new hotness.
+=======
+>>>>>>> master
